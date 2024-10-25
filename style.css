@@ -1,0 +1,44 @@
+h1{
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+
+}
+
+.main {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+
+}
+
+.square{
+
+    width: 300px;
+    height: 300px;
+    background-color: orange;
+    border: 2px solid black;
+    
+}
+
+.circle{
+
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: orange;
+    border: 2px solid black;
+
+}
+
+.rectangle{
+
+    width: 600px;
+    height: 300px;
+    background-color: orange;
+    border: 2px solid black;
+
+}
